@@ -222,8 +222,8 @@ html, body{ height: 100%; }
  }
 
 #status  {
-     width: 200px;
-     height: 200px;
+     width: 370px;
+     height: 370px;
      position: absolute;
      left: 50%;
      top: 50%;
@@ -1625,7 +1625,7 @@ textarea:focus, input:focus, select:focus, .bootstrap-select .dropdown-toggle:fo
     margin-bottom: 40px;
     font-size: 16px;
 	font-family: 'Roboto', sans-serif;
-	color:#ffffff;
+	color:#ea5198;
 	text-align:center;
 }
 
