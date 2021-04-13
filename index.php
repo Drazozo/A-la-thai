@@ -177,7 +177,7 @@
 
 
         <div class="book-btn"><center>
-                                <a href="https://webshop.fulleapps.io/pointofsale/ee630214f255eb3add9b4c6f24ee35eaba99ecf3" class="table-btn hvr-underline-from-center">Je veut passer commande 🤤</a></center>
+                                <a href="https://webshop.fulleapps.io/pointofsale/ee630214f255eb3add9b4c6f24ee35eaba99ecf3" class="table-btn hvr-underline-from-center">Je veux passer commande 🤤</a></center>
     </div>
 
 
@@ -619,7 +619,7 @@
                         <div class="panel panel-pricing">
                             <div class="panel-heading">
                                 <div class="pric-icon">
-                                    <img src="news-images/LOGO-FOOD-TRUCK/ALATHAI-LOGO-04.png" style="width:110px;height:150px;" alt="">
+                                    <img src="news-images/LOGO-RESTAURANT/capture.jpg" style="width:110px;height:150px;" alt="">
                                 </div>
 
                                 <h1><font color="white">La Kanten</font></h1>
@@ -680,7 +680,7 @@
                                 <div class="pric-icon">
                                 	<img src="news-images/LOGO-FOOD-TRUCK/ALATHAI-LOGO-04.png" style="width:110px;height:150px;" alt="">
                                 </div>
-                                <h1><font color="white">Privatiser nous</font></h1>
+                                <h1><font color="white">Privatisez-vous</font></h1>
                             </div>
                             <div class="panel-body text-center">
                                 <p><strong>Devis <span>gratuit</span></strong></p>
