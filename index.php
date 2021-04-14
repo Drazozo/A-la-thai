@@ -61,7 +61,7 @@
                                 </button>
                                 <div class="logo">
                                     <a class="navbar-brand js-scroll-trigger logo-header" href="#">
-                                        <img src="news-images/LOGO-FOOD-TRUCK/ALATHAI-LOGO-04.png" style="width:110px;height:150px;" alt="">
+                                        <img src="news-images/LOGO-FOOD-TRUCK/headerr.png" style="width:240px;height:100px;" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -93,7 +93,7 @@
 	<div id="videowrapper">
     <div id="fullScreenDiv">
        <video id="video" role="presentation" preload="auto" playsinline="" crossorigin="anonymous" loop="" muted="" autoplay="" class="blur">
-            <source src="news-images/video/Alathai-v2.mp4" type="video/mp4">
+            <source src="news-images/video/Alathai-v3.mp4" type="video/mp4">
         </video> 
         <div id="videoMessage" class="styling">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -844,12 +844,12 @@
                         <!-- end col -->
                         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                             <div class="footer-box-b">
-                                <h3>New Menu</h3>
+                                <h3>Passer commande à la thaî Rennes</h3>
                                 <ul>
-                                    <li><a href="#">Italian Bomba Sandwich</a></li>
-                                    <li><a href="#">Double Dose of Pork Belly</a></li>
-                                    <li><a href="#">Spicy Thai Noodles</a></li>
-                                    <li><a href="#">Triple Truffle Trotters</a></li>
+                                    <li><a href="https://www.ubereats.com/fr/rennes/food-delivery/a-la-thai!/7kiWu5EcTEO0C4F2ScWDnQ?pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMiVDMyU4OWNoZW5vei1sYS1NJUMzJUE5bGluZSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpqNUNsYzB5TmtrY1I4QW9Qc3pUT0NRUSUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0E0Ny42MDA4NDg5JTJDJTIybG9uZ2l0dWRlJTIyJTNBNi4xMzc1OTU5OTk5OTk5OTklN0Q%3D">Uber Eat</a></li>
+                                    <li><a href="https://deliveroo.fr/fr/menu/rennes/centre/alathai">Deliveroo</a></li>
+                                    <li><a href="https://www.just-eat.fr/menu/a-la-thai">Just Eat</a></li>
+                                    <li><a href="https://webshop.fulleapps.io/pointofsale/ee630214f255eb3add9b4c6f24ee35eaba99ecf3">A emporter</a></li>
                                 </ul>
                             </div>
                             <!-- end footer-box-b -->
@@ -873,21 +873,24 @@
                             <!-- end footer-box-c -->
                         </div>
                         <!-- end col -->
- <!--                      <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                      <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                             <div class="footer-box-d">
-                                <h3>Opening Hours</h3>
+                                <h3>On thaî les règles ici : </h3>
                                 <ul>
                                     <li>
-                                        <p>Monday - Thursday </p>
-                                        <span> 11:00 AM - 9:00 PM</span>
+                                        <p>Tous droits réservés...</p>
+                                        <span>... sinon, tu passes au wok. </span>
                                     </li>
                                     <li>
-                                        <p>Friday - Saturday </p>
-                                        <span>  11:00 AM - 5:00 PM</span>
+                                        <p>Et pour les photos, elles sont à nous...</p>
+                                        <span>...sinon, petit coup de baguette pour rafraichir les idées. </span>
                                     </li>
-                                    <li href="#"><i class="fa fa-check" font color="white"><span font color="white">  11:00 AM - 5:00 PM</span></i></li>
+                                    <p>
+                                    <br>
+                                    <a href="mailto:contact@alathai.bzh"><i <i class="fa fa-envelope" aria-hidden="true">&nbsp;&nbsp;contact@alathai.bzh</i></a> <br>
+                                </p>
                                 </ul>
-                            </div> -->
+                            </div> 
                             <!-- end footer-box-d -->
                         </div>
                         <!-- end col -->
@@ -901,7 +904,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                            <h6 class="copy-title"> Copyright &copy; 2021 - Créer avec ❤ en Bzh <a href="#" target="_blank"></a> </h6>
+                            <h6 class="copy-title"> Copyright &copy; 2021 - Créer avec ❤ en Bzh <a href="#" target="_blank">par Enzo Métayer</a> </h6>
                         </div>
                     </div>
                     <!-- end row -->
