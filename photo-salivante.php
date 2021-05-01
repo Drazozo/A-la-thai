@@ -1,5 +1,5 @@
  
-    <div class="special-menu pad-top-100 parallax">
+    <div class="special-menu1 pad-top-100 parallax">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -82,21 +82,6 @@
                                 </a>
                                 <div class="item-img">
                                     <img src="news-images/Plats/L1140736.jpg"  alt="Miam Photo" border="0"> 
-                                </div>
-                            </div>
- <!-- ------------- PHOTO 5 ----->   
-                            <div class="item item-type-zoom">
-                                <a href="#" class="item-hover">
-                                    <div class="item-info">
-                                        <div class="headline">
-                                            Brochette de porc
-                                            <div class="line"></div>
-                                            <div class="dit-line">C'est trop bon une brochette de porc à la Thaï... A déguster sur Rennes </div>
-                                        </div>
-                                    </div>
-                                </a>
-                                <div class="item-img">
-                                    <img src="news-images/Plats/L1140755.jpg"  alt="Miam Photo" border="0"> 
                                 </div>
                             </div>
  <!-- ------------- PHOTO 5 ----->   
